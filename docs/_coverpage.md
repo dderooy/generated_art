@@ -2,12 +2,13 @@
 
 
 
-# Generated Coding Art
+# Generated Art
 
-> Visualizing math, order, and randomness
+> Visualizing math, order, and randomness with code
 
-- Python turle library
+- Using Python turtle library
 
 
-[GitHub](https://github.com/dderooy/python_art/)
-[Getting Started](#docsify)
+[Getting Started](#Generating Art)
+[About Artist](https://derooy.netlify.com/#/)
+[GitHub](https://github.com/dderooy/generated_art/)
