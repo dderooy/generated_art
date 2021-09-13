@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](_media/cover_pic.png)
 
 # docsify <small>4.12.1</small>
 
@@ -8,5 +8,5 @@
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/dderooy/python_art/)
 [Getting Started](#docsify)
