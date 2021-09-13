@@ -1,12 +1,13 @@
-![logo](_media/cover_pic.png)
+<img width="300" alt="cover_pic" src="_media/cover_pic.png">
 
-# docsify <small>4.12.1</small>
 
-> A magical documentation site generator.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+# Generated Coding Art
+
+> Visualizing math, order, and randomness
+
+- Python turle library
+
 
 [GitHub](https://github.com/dderooy/python_art/)
 [Getting Started](#docsify)
