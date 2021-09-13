@@ -9,6 +9,6 @@
 - Using Python turtle library
 
 
-[Getting Started](#Generating Art)
+[Getting Started](#generating-art)
 [About Artist](https://derooy.netlify.com/#/)
 [GitHub](https://github.com/dderooy/generated_art/)
