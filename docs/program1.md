@@ -31,12 +31,30 @@ Basically move forwrad and turn right with ratios of phi and pi. Adjusting the a
 ## Results
 
 <img width="700" alt="cover_pic" src="_images/program1/1.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program1/2.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program1/3.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program1/4.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program1/5.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program1/6.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program1/7.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program1/8.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program1/9.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program1/10.png">
