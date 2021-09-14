@@ -43,15 +43,39 @@ This one has a couple more variants to play with. At each new two shapes are cre
 ## Results
 
 <img width="700" alt="cover_pic" src="_images/program3/1.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/2.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/3.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/4.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/5.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/6.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/7.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/8.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/9.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/10.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/11.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/12.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program3/13.png">
