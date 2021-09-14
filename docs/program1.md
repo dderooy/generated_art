@@ -1,5 +1,5 @@
 ## The Code
-```python
+```py
 from turtle import *
 import math
 
