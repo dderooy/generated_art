@@ -6,3 +6,5 @@
   - [Program 4](program4.md)
   - [Program 5](program5.md)
   - [Program 6](program6.md)
+  - [Program 7](program7.md)
+  - [Program 8](program8.md)
