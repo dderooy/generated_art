@@ -37,12 +37,30 @@ Color schemes can be created by playing with ratios of RBG.
 ## Results
 
 <img width="700" alt="cover_pic" src="_images/program4/1.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program4/2.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program4/3.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program4/4.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program4/5.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program4/6.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program4/7.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program4/8.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program4/9.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program4/10.png">
