@@ -47,8 +47,18 @@ This program explores randomness with both color and position.
 ## Results
 
 <img width="700" alt="cover_pic" src="_images/program5/1.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program5/2.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program5/3.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program5/4.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program5/5.png">
+<br />
+<br />
 <img width="700" alt="cover_pic" src="_images/program5/6.png">
