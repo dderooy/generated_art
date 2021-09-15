@@ -79,4 +79,4 @@ This program explores the use of colors more and shape generation
 <img width="700" alt="cover_pic" src="_images/program8/5.png">
 <br />
 <br />
-<img width="700" alt="cover_pic" src="_images/program8/5.png">
+<img width="700" alt="cover_pic" src="_images/program8/6.png">
