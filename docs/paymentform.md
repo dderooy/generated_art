@@ -1,3 +1,11 @@
 ## test nano button
 
-<vuep template="#nanopay"></vuep>
+<button onclick="myFunction()">Click me</button>
+
+<p id="demo"></p>
+
+<script>
+  function myFunction() {
+    document.getElementById("demo").innerHTML = "Hello World";
+  }
+</script>
